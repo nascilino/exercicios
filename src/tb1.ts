@@ -1,10 +1,10 @@
-// Exercício 1, criação da interface User
+// Exercício 01, criação da interface User
 
 interface User {
   
     name: string;
     age: number;
-    occupation: string;
+    occupation: string
 };
 
 export const users: User[] = [

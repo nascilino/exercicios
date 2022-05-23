@@ -1,4 +1,4 @@
-// Exercício 3
+// Exercício 03
 
 interface User {
   name: string;
