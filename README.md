@@ -1,1 +1,1 @@
-# exercicios
+# exerc-cios-typescript
